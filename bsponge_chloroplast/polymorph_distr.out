@@ -1,0 +1,889 @@
+sample d1747s.bam prot p39 spos 7 tpos 303 sreads 129 total ( 203 203 0.000477259 149.232 150 )
+poly 1 mut 0 polymut 0 all 7 tot 303 tsize 303 
+([0, 1], [0.0, 1.0])
+sample r1747s.bam prot p39 spos 4 tpos 303 sreads 88 total ( 159 159 0.000559013 128.522 140 )
+poly 0 mut 0 polymut 0 all 4 tot 303 tsize 303 
+([0, 0], [0.0, 0.0])
+sample d1791s.bam prot p39 spos 3 tpos 303 sreads 160 total ( 267 267 0.00394633 149.513 150 )
+poly 1 mut 1 polymut 1 all 3 tot 303 tsize 303 
+([1, 0], [1.0, 0.0])
+sample r1791s.bam prot p39 spos 2 tpos 290 sreads 2 total ( 4 4 0.00417951 128.75 129 )
+poly 2 mut 1 polymut 1 all 2 tot 290 tsize 303 
+([1, 1], [1.0448275862068965, 1.0448275862068965])
+sample d1820s.bam prot p39 spos 13 tpos 303 sreads 518 total ( 771 770 0.000574806 149.4 150 )
+poly 2 mut 0 polymut 0 all 13 tot 303 tsize 303 
+([0, 2], [0.0, 2.0])
+prot p39 allspos 4 ratio 0.0132013
+sample d1747s.bam prot p36 spos 6 tpos 357 sreads 172 total ( 278 276 0.00170914 150.96 150 )
+poly 2 mut 1 polymut 1 all 6 tot 357 tsize 357 
+([1, 1], [1.0, 1.0])
+sample r1747s.bam prot p36 spos 7 tpos 357 sreads 143 total ( 238 238 0.00179514 127.954 122 )
+poly 2 mut 1 polymut 1 all 7 tot 357 tsize 357 
+([1, 1], [1.0, 1.0])
+sample d1791s.bam prot p36 spos 3 tpos 357 sreads 187 total ( 425 424 0.00936712 150.349 150 )
+poly 2 mut 2 polymut 2 all 3 tot 357 tsize 357 
+([2, 0], [2.0, 0.0])
+sample r1791s.bam prot p36 spos 0 tpos 108 sreads 1 total ( 2 2 0.0144928 136.5 133 )
+poly 0 mut 0 polymut 0 all 0 tot 108 tsize 357 
+([0, 0], [0.0, 0.0])
+sample d1820s.bam prot p36 spos 15 tpos 357 sreads 730 total ( 1180 1177 0.00113608 150.37 150 )
+poly 3 mut 0 polymut 0 all 15 tot 357 tsize 357 
+([0, 3], [0.0, 3.0])
+prot p36 allspos 4 ratio 0.0112045
+sample d1747s.bam prot p8 spos 12 tpos 1254 sreads 423 total ( 782 782 0.0011382 149.988 150 )
+poly 5 mut 0 polymut 0 all 12 tot 1254 tsize 1254 
+([0, 5], [0.0, 5.0])
+sample r1747s.bam prot p8 spos 17 tpos 1254 sreads 382 total ( 686 686 0.00102722 132.052 140 )
+poly 6 mut 0 polymut 0 all 17 tot 1254 tsize 1254 
+([0, 6], [0.0, 6.0])
+sample d1791s.bam prot p8 spos 18 tpos 1254 sreads 543 total ( 1249 1249 0.00751515 149.908 150 )
+poly 13 mut 9 polymut 8 all 18 tot 1254 tsize 1254 
+([8, 5], [8.0, 5.0])
+sample r1791s.bam prot p8 spos 3 tpos 757 sreads 6 total ( 13 13 0.00499391 129 140 )
+poly 3 mut 2 polymut 2 all 3 tot 757 tsize 1254 
+([2, 1], [3.3130779392338177, 1.6565389696169088])
+sample d1820s.bam prot p8 spos 63 tpos 1254 sreads 1726 total ( 3203 3199 0.00137229 150.152 150 )
+poly 13 mut 0 polymut 0 all 63 tot 1254 tsize 1254 
+([0, 13], [0.0, 13.0])
+prot p8 allspos 21 ratio 0.0167464
+sample d1747s.bam prot p34 spos 4 tpos 366 sreads 188 total ( 309 309 0.000699465 149.964 150 )
+poly 3 mut 0 polymut 0 all 4 tot 366 tsize 366 
+([0, 3], [0.0, 3.0])
+sample r1747s.bam prot p34 spos 1 tpos 366 sreads 158 total ( 261 261 0.000430695 130.295 126 )
+poly 0 mut 0 polymut 0 all 1 tot 366 tsize 366 
+([0, 0], [0.0, 0.0])
+sample d1791s.bam prot p34 spos 3 tpos 366 sreads 215 total ( 392 392 0.00632942 149.816 154 )
+poly 3 mut 3 polymut 3 all 3 tot 366 tsize 366 
+([3, 0], [3.0, 0.0])
+sample r1791s.bam prot p34 spos 0 tpos 0 sreads 0 total ( 0 0 0 0 154 )
+poly 0 mut 0 polymut 0 all 0 tot 0 tsize 366 
+sample d1820s.bam prot p34 spos 21 tpos 366 sreads 724 total ( 1136 1135 0.000901979 150.077 150 )
+poly 3 mut 0 polymut 0 all 21 tot 366 tsize 366 
+([0, 3], [0.0, 3.0])
+prot p34 allspos 4 ratio 0.010929
+sample d1747s.bam prot p9 spos 13 tpos 1230 sreads 419 total ( 776 776 0.00046433 150 150 )
+poly 2 mut 0 polymut 0 all 13 tot 1230 tsize 1230 
+([0, 2], [0.0, 2.0])
+sample r1747s.bam prot p9 spos 20 tpos 1230 sreads 429 total ( 798 798 0.000577194 130.404 130 )
+poly 9 mut 0 polymut 0 all 20 tot 1230 tsize 1230 
+([0, 9], [0.0, 9.0])
+sample d1791s.bam prot p9 spos 22 tpos 1230 sreads 662 total ( 1324 1324 0.0039742 149.997 150 )
+poly 10 mut 4 polymut 4 all 22 tot 1230 tsize 1230 
+([4, 6], [4.0, 6.0])
+sample r1791s.bam prot p9 spos 3 tpos 635 sreads 9 total ( 21 21 0.0154461 127.095 140 )
+poly 3 mut 3 polymut 3 all 3 tot 635 tsize 1230 
+([3, 0], [5.811023622047244, 0.0])
+sample d1820s.bam prot p9 spos 55 tpos 1230 sreads 1628 total ( 3000 2998 0.000943556 150.1 150 )
+poly 6 mut 0 polymut 0 all 55 tot 1230 tsize 1230 
+([0, 6], [0.0, 6.0])
+prot p9 allspos 17 ratio 0.0138211
+sample d1747s.bam prot p26 spos 8 tpos 468 sreads 211 total ( 375 374 0.00166504 150.393 150 )
+poly 2 mut 0 polymut 0 all 8 tot 468 tsize 468 
+([0, 2], [0.0, 2.0])
+sample r1747s.bam prot p26 spos 7 tpos 468 sreads 195 total ( 349 349 0.00164511 132.017 130 )
+poly 2 mut 0 polymut 0 all 7 tot 468 tsize 468 
+([0, 2], [0.0, 2.0])
+sample d1791s.bam prot p26 spos 7 tpos 468 sreads 291 total ( 571 571 0.00846216 149.294 150 )
+poly 4 mut 2 polymut 1 all 7 tot 468 tsize 468 
+([1, 3], [1.0, 3.0])
+sample r1791s.bam prot p26 spos 0 tpos 218 sreads 3 total ( 4 4 0.00396825 129.75 140 )
+poly 0 mut 0 polymut 0 all 0 tot 218 tsize 468 
+([0, 0], [0.0, 0.0])
+sample d1820s.bam prot p26 spos 22 tpos 468 sreads 861 total ( 1434 1427 0.00117815 150.736 150 )
+poly 4 mut 0 polymut 0 all 22 tot 468 tsize 468 
+([0, 4], [0.0, 4.0])
+prot p26 allspos 7 ratio 0.0149573
+sample d1747s.bam prot p32 spos 3 tpos 372 sreads 176 total ( 285 285 0.000283522 150 150 )
+poly 1 mut 0 polymut 0 all 3 tot 372 tsize 372 
+([0, 1], [0.0, 1.0])
+sample r1747s.bam prot p32 spos 7 tpos 372 sreads 188 total ( 299 299 0.000849551 129.207 140 )
+poly 2 mut 0 polymut 0 all 7 tot 372 tsize 372 
+([0, 2], [0.0, 2.0])
+sample d1791s.bam prot p32 spos 3 tpos 372 sreads 304 total ( 496 496 0.00250122 149.524 150 )
+poly 2 mut 1 polymut 1 all 3 tot 372 tsize 372 
+([1, 1], [1.0, 1.0])
+sample r1791s.bam prot p32 spos 1 tpos 323 sreads 3 total ( 5 5 0.00285714 133 140 )
+poly 1 mut 1 polymut 1 all 1 tot 323 tsize 372 
+([1, 0], [1.151702786377709, 0.0])
+sample d1820s.bam prot p32 spos 12 tpos 372 sreads 747 total ( 1187 1185 0.000371133 150.253 150 )
+poly 2 mut 0 polymut 0 all 12 tot 372 tsize 372 
+([0, 2], [0.0, 2.0])
+prot p32 allspos 4 ratio 0.0107527
+sample d1747s.bam prot trna_Pro spos 0 tpos 74 sreads 79 total ( 108 106 0.000341894 152.792 150 )
+poly 0 mut 0 polymut 0 all 0 tot 74 tsize 74 
+([0, 0], [0.0, 0.0])
+sample r1747s.bam prot trna_Pro spos 0 tpos 74 sreads 934 total ( 1164 1163 0.000302447 126.61 140 )
+poly 0 mut 0 polymut 0 all 0 tot 74 tsize 74 
+([0, 0], [0.0, 0.0])
+sample d1791s.bam prot trna_Pro spos 0 tpos 74 sreads 136 total ( 180 180 0.000491742 149.778 150 )
+poly 0 mut 0 polymut 0 all 0 tot 74 tsize 74 
+([0, 0], [0.0, 0.0])
+sample r1791s.bam prot trna_Pro spos 0 tpos 74 sreads 10 total ( 15 15 0.00114943 122.8 115 )
+poly 0 mut 0 polymut 0 all 0 tot 74 tsize 74 
+([0, 0], [0.0, 0.0])
+sample d1820s.bam prot trna_Pro spos 0 tpos 74 sreads 382 total ( 483 483 0.000819531 149.998 150 )
+poly 0 mut 0 polymut 0 all 0 tot 74 tsize 74 
+([0, 0], [0.0, 0.0])
+prot trna_Pro allspos 0 ratio 0
+sample d1747s.bam prot trna_Trp spos 0 tpos 73 sreads 100 total ( 130 129 0 151.163 150 )
+poly 0 mut 0 polymut 0 all 0 tot 73 tsize 73 
+([0, 0], [0.0, 0.0])
+sample r1747s.bam prot trna_Trp spos 0 tpos 73 sreads 871 total ( 1104 1102 0.000121162 129.419 140 )
+poly 0 mut 0 polymut 0 all 0 tot 73 tsize 73 
+([0, 0], [0.0, 0.0])
+sample d1791s.bam prot trna_Trp spos 0 tpos 73 sreads 149 total ( 191 191 0 149.88 149 )
+poly 0 mut 0 polymut 0 all 0 tot 73 tsize 73 
+([0, 0], [0.0, 0.0])
+sample r1791s.bam prot trna_Trp spos 0 tpos 73 sreads 13 total ( 13 13 0 127.769 140 )
+poly 0 mut 0 polymut 0 all 0 tot 73 tsize 73 
+([0, 0], [0.0, 0.0])
+sample d1820s.bam prot trna_Trp spos 0 tpos 73 sreads 378 total ( 461 460 0.000121722 150.293 150 )
+poly 0 mut 0 polymut 0 all 0 tot 73 tsize 73 
+([0, 0], [0.0, 0.0])
+prot trna_Trp allspos 0 ratio 0
+sample d1747s.bam prot p1 spos 59 tpos 4665 sreads 1362 total ( 2672 2672 0.000775706 149.997 150 )
+poly 13 mut 1 polymut 1 all 59 tot 4665 tsize 4665 
+([1, 12], [1.0, 12.0])
+sample r1747s.bam prot p1 spos 35 tpos 4665 sreads 479 total ( 942 942 0.000716305 130.007 140 )
+poly 34 mut 0 polymut 0 all 35 tot 4665 tsize 4665 
+([0, 34], [0.0, 34.0])
+sample d1791s.bam prot p1 spos 92 tpos 4665 sreads 1792 total ( 4260 4258 0.00770238 150.054 150 )
+poly 53 mut 31 polymut 30 all 92 tot 4665 tsize 4665 
+([30, 23], [30.0, 23.0])
+sample r1791s.bam prot p1 spos 5 tpos 1314 sreads 9 total ( 20 20 0.00836664 133.05 140 )
+poly 5 mut 5 polymut 5 all 5 tot 1314 tsize 4665 
+([5, 0], [17.751141552511417, 0.0])
+sample d1820s.bam prot p1 spos 239 tpos 4665 sreads 5381 total ( 10631 10630 0.0013744 150.008 150 )
+poly 33 mut 2 polymut 2 all 239 tot 4665 tsize 4665 
+([2, 31], [2.0, 31.0])
+prot p1 allspos 96 ratio 0.0205788
+sample d1747s.bam prot p37 spos 6 tpos 345 sreads 206 total ( 339 339 0.000356999 150 150 )
+poly 0 mut 0 polymut 0 all 6 tot 345 tsize 345 
+([0, 0], [0.0, 0.0])
+sample r1747s.bam prot p37 spos 0 tpos 345 sreads 67 total ( 102 102 0.000392157 128.794 140 )
+poly 0 mut 0 polymut 0 all 0 tot 345 tsize 345 
+([0, 0], [0.0, 0.0])
+sample d1791s.bam prot p37 spos 5 tpos 345 sreads 240 total ( 446 445 0.00565751 150.337 150 )
+poly 4 mut 2 polymut 2 all 5 tot 345 tsize 345 
+([2, 2], [2.0, 2.0])
+sample r1791s.bam prot p37 spos 1 tpos 236 sreads 1 total ( 2 2 0.00357143 140 140 )
+poly 1 mut 1 polymut 1 all 1 tot 236 tsize 345 
+([1, 0], [1.4618644067796611, 0.0])
+sample d1820s.bam prot p37 spos 13 tpos 345 sreads 711 total ( 1126 1125 0.00123892 150.124 150 )
+poly 3 mut 0 polymut 0 all 13 tot 345 tsize 345 
+([0, 3], [0.0, 3.0])
+prot p37 allspos 4 ratio 0.0115942
+sample d1747s.bam prot p3 spos 27 tpos 1944 sreads 610 total ( 1187 1187 0.00148684 149.964 150 )
+poly 9 mut 0 polymut 0 all 27 tot 1944 tsize 1944 
+([0, 9], [0.0, 9.0])
+sample r1747s.bam prot p3 spos 15 tpos 1944 sreads 206 total ( 408 407 0.0012306 131.526 122 )
+poly 13 mut 0 polymut 0 all 15 tot 1944 tsize 1944 
+([0, 13], [0.0, 13.0])
+sample d1791s.bam prot p3 spos 38 tpos 1944 sreads 924 total ( 1902 1902 0.0051439 149.992 150 )
+poly 20 mut 9 polymut 9 all 38 tot 1944 tsize 1944 
+([9, 11], [9.0, 11.0])
+sample r1791s.bam prot p3 spos 1 tpos 277 sreads 3 total ( 6 6 0.0111113 119.167 117 )
+poly 1 mut 0 polymut 0 all 1 tot 277 tsize 1944 
+([0, 1], [0.0, 7.018050541516246])
+sample d1820s.bam prot p3 spos 104 tpos 1944 sreads 2477 total ( 4704 4703 0.00137452 150.029 150 )
+poly 20 mut 1 polymut 1 all 104 tot 1944 tsize 1944 
+([1, 19], [1.0, 19.0])
+prot p3 allspos 39 ratio 0.0200617
+sample d1747s.bam prot p2 spos 38 tpos 3768 sreads 1015 total ( 1986 1986 0.000841343 149.972 150 )
+poly 9 mut 1 polymut 0 all 38 tot 3768 tsize 3768 
+([0, 9], [0.0, 9.0])
+sample r1747s.bam prot p2 spos 41 tpos 3768 sreads 650 total ( 1280 1280 0.00125852 132.039 140 )
+poly 16 mut 1 polymut 0 all 41 tot 3768 tsize 3768 
+([0, 16], [0.0, 16.0])
+sample d1791s.bam prot p2 spos 66 tpos 3768 sreads 1576 total ( 3510 3510 0.00906209 149.711 150 )
+poly 39 mut 23 polymut 22 all 66 tot 3768 tsize 3768 
+([22, 17], [22.0, 17.0])
+sample r1791s.bam prot p2 spos 2 tpos 1349 sreads 7 total ( 14 14 0.00317411 134.286 120 )
+poly 2 mut 2 polymut 2 all 2 tot 1349 tsize 3768 
+([2, 0], [5.586360266864344, 0.0])
+sample d1820s.bam prot p2 spos 195 tpos 3768 sreads 4446 total ( 8724 8723 0.00109759 149.994 150 )
+poly 30 mut 0 polymut 0 all 195 tot 3768 tsize 3768 
+([0, 30], [0.0, 30.0])
+prot p2 allspos 66 ratio 0.0175159
+sample d1747s.bam prot trna_Cys spos 0 tpos 72 sreads 93 total ( 129 127 0.000109361 152.362 150 )
+poly 0 mut 0 polymut 0 all 0 tot 72 tsize 72 
+([0, 0], [0.0, 0.0])
+sample r1747s.bam prot trna_Cys spos 0 tpos 72 sreads 103 total ( 167 166 0.000111557 135.765 132 )
+poly 0 mut 0 polymut 0 all 0 tot 72 tsize 72 
+([0, 0], [0.0, 0.0])
+sample d1791s.bam prot trna_Cys spos 0 tpos 72 sreads 158 total ( 202 202 0.000309406 150 150 )
+poly 0 mut 0 polymut 0 all 0 tot 72 tsize 72 
+([0, 0], [0.0, 0.0])
+sample r1791s.bam prot trna_Cys spos 0 tpos 0 sreads 0 total ( 0 0 0 0 150 )
+poly 0 mut 0 polymut 0 all 0 tot 0 tsize 72 
+sample d1820s.bam prot trna_Cys spos 0 tpos 72 sreads 390 total ( 482 480 0.000852743 150.625 150 )
+poly 0 mut 0 polymut 0 all 0 tot 72 tsize 72 
+([0, 0], [0.0, 0.0])
+prot trna_Cys allspos 0 ratio 0
+sample d1747s.bam prot trna_Leu spos 0 tpos 85 sreads 78 total ( 108 107 0 151.402 150 )
+poly 0 mut 0 polymut 0 all 0 tot 85 tsize 85 
+([0, 0], [0.0, 0.0])
+sample r1747s.bam prot trna_Leu spos 0 tpos 85 sreads 44 total ( 60 60 0.00142046 134.033 115 )
+poly 0 mut 0 polymut 0 all 0 tot 85 tsize 85 
+([0, 0], [0.0, 0.0])
+sample d1791s.bam prot trna_Leu spos 0 tpos 85 sreads 169 total ( 235 234 0.00016174 150.641 151 )
+poly 0 mut 0 polymut 0 all 0 tot 85 tsize 85 
+([0, 0], [0.0, 0.0])
+sample r1791s.bam prot trna_Leu spos 0 tpos 2 sreads 2 total ( 2 2 0 140 142 )
+poly 0 mut 0 polymut 0 all 0 tot 2 tsize 85 
+([0, 0], [0.0, 0.0])
+sample d1820s.bam prot trna_Leu spos 0 tpos 85 sreads 406 total ( 546 544 0.000207699 150.551 150 )
+poly 0 mut 0 polymut 0 all 0 tot 85 tsize 85 
+([0, 0], [0.0, 0.0])
+prot trna_Leu allspos 0 ratio 0
+sample d1747s.bam prot trna_Tyr spos 0 tpos 83 sreads 67 total ( 95 94 0.000340938 151.596 150 )
+poly 0 mut 0 polymut 0 all 0 tot 83 tsize 83 
+([0, 0], [0.0, 0.0])
+sample r1747s.bam prot trna_Tyr spos 0 tpos 83 sreads 72 total ( 86 86 0.000141804 133.988 131 )
+poly 0 mut 0 polymut 0 all 0 tot 83 tsize 83 
+([0, 0], [0.0, 0.0])
+sample d1791s.bam prot trna_Tyr spos 0 tpos 83 sreads 148 total ( 199 199 0.000137049 150 150 )
+poly 0 mut 0 polymut 0 all 0 tot 83 tsize 83 
+([0, 0], [0.0, 0.0])
+sample r1791s.bam prot trna_Tyr spos 0 tpos 0 sreads 0 total ( 2 2 0.015873 117 120 )
+poly 0 mut 0 polymut 0 all 0 tot 0 tsize 83 
+sample d1820s.bam prot trna_Tyr spos 0 tpos 83 sreads 358 total ( 485 483 0.000410293 150.611 150 )
+poly 0 mut 0 polymut 0 all 0 tot 83 tsize 83 
+([0, 0], [0.0, 0.0])
+prot trna_Tyr allspos 0 ratio 0
+sample d1747s.bam prot p22 spos 9 tpos 609 sreads 262 total ( 486 486 0.00289998 150 150 )
+poly 3 mut 1 polymut 1 all 9 tot 609 tsize 609 
+([1, 2], [1.0, 2.0])
+sample r1747s.bam prot p22 spos 7 tpos 609 sreads 441 total ( 758 758 0.0023618 130.796 140 )
+poly 2 mut 1 polymut 1 all 7 tot 609 tsize 609 
+([1, 1], [1.0, 1.0])
+sample d1791s.bam prot p22 spos 14 tpos 609 sreads 273 total ( 669 668 0.0167115 149.674 150 )
+poly 6 mut 4 polymut 4 all 14 tot 609 tsize 609 
+([4, 2], [4.0, 2.0])
+sample r1791s.bam prot p22 spos 1 tpos 164 sreads 2 total ( 5 5 0.0203425 123.8 95 )
+poly 1 mut 1 polymut 1 all 1 tot 164 tsize 609 
+([1, 0], [3.7134146341463414, 0.0])
+sample d1820s.bam prot p22 spos 25 tpos 609 sreads 1037 total ( 1812 1810 0.00156424 150.144 150 )
+poly 5 mut 0 polymut 0 all 25 tot 609 tsize 609 
+([0, 5], [0.0, 5.0])
+prot p22 allspos 10 ratio 0.0164204
+sample d1747s.bam prot p25 spos 4 tpos 483 sreads 206 total ( 363 363 0.00174745 149.989 150 )
+poly 3 mut 0 polymut 0 all 4 tot 483 tsize 483 
+([0, 3], [0.0, 3.0])
+sample r1747s.bam prot p25 spos 0 tpos 483 sreads 655 total ( 1128 1128 0 131.7 114 )
+poly 0 mut 0 polymut 0 all 0 tot 483 tsize 483 
+([0, 0], [0.0, 0.0])
+sample d1791s.bam prot p25 spos 12 tpos 483 sreads 316 total ( 551 550 0.00257955 150.267 150 )
+poly 5 mut 1 polymut 1 all 12 tot 483 tsize 483 
+([1, 4], [1.0, 4.0])
+sample r1791s.bam prot p25 spos 1 tpos 477 sreads 7 total ( 11 11 0.00194805 134 124 )
+poly 1 mut 1 polymut 1 all 1 tot 477 tsize 483 
+([1, 0], [1.0125786163522013, 0.0])
+sample d1820s.bam prot p25 spos 22 tpos 483 sreads 854 total ( 1422 1420 0.000641762 150.21 150 )
+poly 3 mut 0 polymut 0 all 22 tot 483 tsize 483 
+([0, 3], [0.0, 3.0])
+prot p25 allspos 7 ratio 0.0144928
+sample d1747s.bam prot p21 spos 13 tpos 648 sreads 257 total ( 454 454 0.00140617 150 150 )
+poly 2 mut 1 polymut 1 all 13 tot 648 tsize 648 
+([1, 1], [1.0, 1.0])
+sample r1747s.bam prot p21 spos 2 tpos 648 sreads 696 total ( 1294 1294 0.001552 132.338 140 )
+poly 0 mut 1 polymut 0 all 2 tot 648 tsize 648 
+([0, 0], [0.0, 0.0])
+sample d1791s.bam prot p21 spos 12 tpos 648 sreads 414 total ( 774 774 0.00302011 149.903 150 )
+poly 3 mut 2 polymut 2 all 12 tot 648 tsize 648 
+([2, 1], [2.0, 1.0])
+sample r1791s.bam prot p21 spos 2 tpos 622 sreads 12 total ( 21 21 0.00561632 124.714 49 )
+poly 1 mut 2 polymut 1 all 2 tot 622 tsize 648 
+([1, 0], [1.0418006430868167, 0.0])
+sample d1820s.bam prot p21 spos 30 tpos 648 sreads 1099 total ( 1907 1902 0.00108159 150.365 150 )
+poly 6 mut 0 polymut 0 all 30 tot 648 tsize 648 
+([0, 6], [0.0, 6.0])
+prot p21 allspos 7 ratio 0.0108025
+sample d1747s.bam prot trna_Ser spos 0 tpos 87 sreads 82 total ( 110 110 0 150 150 )
+poly 0 mut 0 polymut 0 all 0 tot 87 tsize 87 
+([0, 0], [0.0, 0.0])
+sample r1747s.bam prot trna_Ser spos 0 tpos 87 sreads 31 total ( 43 43 0.000976514 128.907 140 )
+poly 0 mut 0 polymut 0 all 0 tot 87 tsize 87 
+([0, 0], [0.0, 0.0])
+sample d1791s.bam prot trna_Ser spos 0 tpos 87 sreads 169 total ( 239 237 0.00262987 150.823 150 )
+poly 0 mut 0 polymut 0 all 0 tot 87 tsize 87 
+([0, 0], [0.0, 0.0])
+sample r1791s.bam prot trna_Ser spos 0 tpos 0 sreads 0 total ( 0 0 0 0 150 )
+poly 0 mut 0 polymut 0 all 0 tot 0 tsize 87 
+sample d1820s.bam prot trna_Ser spos 0 tpos 87 sreads 405 total ( 544 541 0.00178872 150.715 150 )
+poly 0 mut 0 polymut 0 all 0 tot 87 tsize 87 
+([0, 0], [0.0, 0.0])
+prot trna_Ser allspos 0 ratio 0
+sample d1747s.bam prot p13 spos 15 tpos 1002 sreads 329 total ( 598 597 0.000702101 150.245 150 )
+poly 4 mut 0 polymut 0 all 15 tot 1002 tsize 1002 
+([0, 4], [0.0, 4.0])
+sample r1747s.bam prot p13 spos 12 tpos 1002 sreads 437 total ( 858 858 0.000935887 131.733 140 )
+poly 4 mut 0 polymut 0 all 12 tot 1002 tsize 1002 
+([0, 4], [0.0, 4.0])
+sample d1791s.bam prot p13 spos 16 tpos 1002 sreads 459 total ( 1103 1102 0.00890997 150.09 150 )
+poly 11 mut 8 polymut 6 all 16 tot 1002 tsize 1002 
+([6, 5], [6.0, 5.0])
+sample r1791s.bam prot p13 spos 2 tpos 396 sreads 6 total ( 18 18 0.00852606 138.5 140 )
+poly 1 mut 2 polymut 1 all 2 tot 396 tsize 1002 
+([1, 0], [2.5303030303030303, 0.0])
+sample d1820s.bam prot p13 spos 54 tpos 1002 sreads 1510 total ( 2703 2702 0.00150261 150.044 150 )
+poly 7 mut 1 polymut 1 all 54 tot 1002 tsize 1002 
+([1, 6], [1.0, 6.0])
+prot p13 allspos 16 ratio 0.0159681
+sample d1747s.bam prot p11 spos 16 tpos 1068 sreads 355 total ( 659 659 0.000858229 149.992 150 )
+poly 2 mut 0 polymut 0 all 16 tot 1068 tsize 1068 
+([0, 2], [0.0, 2.0])
+sample r1747s.bam prot p11 spos 11 tpos 1068 sreads 73 total ( 147 147 0.0024804 131.503 140 )
+poly 11 mut 0 polymut 0 all 11 tot 1068 tsize 1068 
+([0, 11], [0.0, 11.0])
+sample d1791s.bam prot p11 spos 22 tpos 1068 sreads 445 total ( 1071 1070 0.00937033 150.138 150 )
+poly 14 mut 8 polymut 8 all 22 tot 1068 tsize 1068 
+([8, 6], [8.0, 6.0])
+sample r1791s.bam prot p11 spos 0 tpos 153 sreads 1 total ( 2 2 0 130 140 )
+poly 0 mut 0 polymut 0 all 0 tot 153 tsize 1068 
+([0, 0], [0.0, 0.0])
+sample d1820s.bam prot p11 spos 47 tpos 1068 sreads 1490 total ( 2714 2714 0.00152625 149.999 150 )
+poly 7 mut 0 polymut 0 all 47 tot 1068 tsize 1068 
+([0, 7], [0.0, 7.0])
+prot p11 allspos 24 ratio 0.0224719
+sample d1747s.bam prot p38 spos 5 tpos 339 sreads 133 total ( 225 224 0.00375614 150.634 150 )
+poly 4 mut 0 polymut 0 all 5 tot 339 tsize 339 
+([0, 4], [0.0, 4.0])
+sample r1747s.bam prot p38 spos 3 tpos 339 sreads 21 total ( 40 40 0.0106982 131.425 140 )
+poly 3 mut 0 polymut 0 all 3 tot 339 tsize 339 
+([0, 3], [0.0, 3.0])
+sample d1791s.bam prot p38 spos 5 tpos 339 sreads 73 total ( 404 404 0.0362488 149.064 150 )
+poly 5 mut 3 polymut 3 all 5 tot 339 tsize 339 
+([3, 2], [3.0, 2.0])
+sample r1791s.bam prot p38 spos 0 tpos 0 sreads 0 total ( 2 2 0.0419287 138 138 )
+poly 0 mut 0 polymut 0 all 0 tot 0 tsize 339 
+sample d1820s.bam prot p38 spos 16 tpos 339 sreads 586 total ( 954 950 0.00401064 150.614 150 )
+poly 4 mut 0 polymut 0 all 16 tot 339 tsize 339 
+([0, 4], [0.0, 4.0])
+prot p38 allspos 8 ratio 0.0235988
+sample d1747s.bam prot trna_Ile spos 0 tpos 74 sreads 72 total ( 96 96 0.00378788 149.938 150 )
+poly 0 mut 0 polymut 0 all 0 tot 74 tsize 74 
+([0, 0], [0.0, 0.0])
+sample r1747s.bam prot trna_Ile spos 0 tpos 72 sreads 3 total ( 3 3 0 140 140 )
+poly 0 mut 0 polymut 0 all 0 tot 72 tsize 74 
+([0, 0], [0.0, 0.0])
+sample d1791s.bam prot trna_Ile spos 0 tpos 74 sreads 166 total ( 221 220 0.000108225 150.673 150 )
+poly 0 mut 0 polymut 0 all 0 tot 74 tsize 74 
+([0, 0], [0.0, 0.0])
+sample r1791s.bam prot trna_Ile spos 0 tpos 0 sreads 0 total ( 0 0 0 0 150 )
+poly 0 mut 0 polymut 0 all 0 tot 0 tsize 74 
+sample d1820s.bam prot trna_Ile spos 0 tpos 74 sreads 335 total ( 414 413 3.27204e-05 150.363 150 )
+poly 0 mut 0 polymut 0 all 0 tot 74 tsize 74 
+([0, 0], [0.0, 0.0])
+prot trna_Ile allspos 0 ratio 0
+sample d1747s.bam prot trna_Ala spos 0 tpos 73 sreads 69 total ( 92 92 0 150 150 )
+poly 0 mut 0 polymut 0 all 0 tot 73 tsize 73 
+([0, 0], [0.0, 0.0])
+sample r1747s.bam prot trna_Ala spos 0 tpos 48 sreads 1 total ( 1 1 0 140 140 )
+poly 0 mut 0 polymut 0 all 0 tot 48 tsize 73 
+([0, 0], [0.0, 0.0])
+sample d1791s.bam prot trna_Ala spos 0 tpos 73 sreads 158 total ( 198 198 0.0010101 149.995 150 )
+poly 0 mut 0 polymut 0 all 0 tot 73 tsize 73 
+([0, 0], [0.0, 0.0])
+sample r1791s.bam prot trna_Ala spos 0 tpos 40 sreads 1 total ( 1 1 0 140 140 )
+poly 0 mut 0 polymut 0 all 0 tot 40 tsize 73 
+([0, 0], [0.0, 0.0])
+sample d1820s.bam prot trna_Ala spos 0 tpos 73 sreads 375 total ( 458 458 0.000136463 150 150 )
+poly 0 mut 0 polymut 0 all 0 tot 73 tsize 73 
+([0, 0], [0.0, 0.0])
+prot trna_Ala allspos 0 ratio 0
+sample d1747s.bam prot 23s_rna spos 29 tpos 2932 sreads 819 total ( 1625 1625 0.00276479 149.983 150 )
+poly 7 mut 1 polymut 1 all 29 tot 2932 tsize 2932 
+([1, 6], [1.0, 6.0])
+sample r1747s.bam prot 23s_rna spos 19 tpos 2932 sreads 4367 total ( 21833 21833 0.0519278 126.115 140 )
+poly 6 mut 5 polymut 4 all 19 tot 2932 tsize 2932 
+([4, 2], [4.0, 2.0])
+sample d1791s.bam prot 23s_rna spos 46 tpos 2932 sreads 1409 total ( 2794 2793 0.00373995 150.041 150 )
+poly 13 mut 7 polymut 6 all 46 tot 2932 tsize 2932 
+([6, 7], [6.0, 7.0])
+sample r1791s.bam prot 23s_rna spos 16 tpos 2260 sreads 278 total ( 23264 23264 0.0810721 124.137 110 )
+poly 14 mut 5 polymut 4 all 16 tot 2260 tsize 2932 
+([4, 10], [5.189380530973452, 12.973451327433628])
+sample d1820s.bam prot 23s_rna spos 120 tpos 2932 sreads 3670 total ( 7091 7088 0.00120684 150.058 150 )
+poly 11 mut 1 polymut 1 all 120 tot 2932 tsize 2932 
+([1, 10], [1.0, 10.0])
+prot 23s_rna allspos 34 ratio 0.0115962
+sample d1747s.bam prot p6 spos 20 tpos 1446 sreads 464 total ( 879 879 0.000569788 149.997 150 )
+poly 4 mut 0 polymut 0 all 20 tot 1446 tsize 1446 
+([0, 4], [0.0, 4.0])
+sample r1747s.bam prot p6 spos 2 tpos 1446 sreads 2895 total ( 5674 5674 0.000168697 131.318 140 )
+poly 1 mut 0 polymut 0 all 2 tot 1446 tsize 1446 
+([0, 1], [0.0, 1.0])
+sample d1791s.bam prot p6 spos 31 tpos 1446 sreads 614 total ( 1507 1506 0.0095111 150.057 149 )
+poly 17 mut 9 polymut 9 all 31 tot 1446 tsize 1446 
+([9, 8], [9.0, 8.0])
+sample r1791s.bam prot p6 spos 7 tpos 1219 sreads 36 total ( 86 86 0.00867899 130.826 138 )
+poly 6 mut 5 polymut 4 all 7 tot 1219 tsize 1446 
+([4, 2], [4.7448728465955705, 2.3724364232977853])
+sample d1820s.bam prot p6 spos 73 tpos 1446 sreads 1871 total ( 3490 3485 0.000846 150.213 150 )
+poly 8 mut 0 polymut 0 all 73 tot 1446 tsize 1446 
+([0, 8], [0.0, 8.0])
+prot p6 allspos 21 ratio 0.0145228
+sample d1747s.bam prot p30 spos 4 tpos 402 sreads 190 total ( 309 309 0.00126514 149.997 150 )
+poly 1 mut 0 polymut 0 all 4 tot 402 tsize 402 
+([0, 1], [0.0, 1.0])
+sample r1747s.bam prot p30 spos 5 tpos 402 sreads 291 total ( 458 458 0.00116784 129.814 140 )
+poly 1 mut 0 polymut 0 all 5 tot 402 tsize 402 
+([0, 1], [0.0, 1.0])
+sample d1791s.bam prot p30 spos 9 tpos 402 sreads 263 total ( 523 521 0.00545549 150.342 150 )
+poly 3 mut 2 polymut 2 all 9 tot 402 tsize 402 
+([2, 1], [2.0, 1.0])
+sample r1791s.bam prot p30 spos 0 tpos 135 sreads 9 total ( 15 15 0.00660311 121.867 140 )
+poly 0 mut 0 polymut 0 all 0 tot 135 tsize 402 
+([0, 0], [0.0, 0.0])
+sample d1820s.bam prot p30 spos 22 tpos 402 sreads 738 total ( 1219 1217 0.000880791 150.228 150 )
+poly 2 mut 0 polymut 0 all 22 tot 402 tsize 402 
+([0, 2], [0.0, 2.0])
+prot p30 allspos 4 ratio 0.00995025
+sample d1747s.bam prot p24 spos 3 tpos 510 sreads 208 total ( 350 350 0.000259156 149.929 150 )
+poly 2 mut 0 polymut 0 all 3 tot 510 tsize 510 
+([0, 2], [0.0, 2.0])
+sample r1747s.bam prot p24 spos 3 tpos 510 sreads 325 total ( 580 579 3.72798e-05 130.439 139 )
+poly 0 mut 0 polymut 0 all 3 tot 510 tsize 510 
+([0, 0], [0.0, 0.0])
+sample d1791s.bam prot p24 spos 7 tpos 510 sreads 313 total ( 538 538 0.00364927 149.996 150 )
+poly 2 mut 2 polymut 1 all 7 tot 510 tsize 510 
+([1, 1], [1.0, 1.0])
+sample r1791s.bam prot p24 spos 3 tpos 509 sreads 9 total ( 15 15 0.00508577 136 140 )
+poly 3 mut 2 polymut 2 all 3 tot 509 tsize 510 
+([2, 1], [2.0039292730844793, 1.0019646365422397])
+sample d1820s.bam prot p24 spos 17 tpos 510 sreads 865 total ( 1472 1471 0.00183609 150.058 150 )
+poly 5 mut 1 polymut 1 all 17 tot 510 tsize 510 
+([1, 4], [1.0, 4.0])
+prot p24 allspos 6 ratio 0.0117647
+sample d1747s.bam prot trna_Met spos 0 tpos 86 sreads 73 total ( 94 94 0 149.957 150 )
+poly 0 mut 0 polymut 0 all 0 tot 86 tsize 86 
+([0, 0], [0.0, 0.0])
+sample r1747s.bam prot trna_Met spos 0 tpos 86 sreads 64 total ( 87 87 0.00144958 132.506 142 )
+poly 0 mut 0 polymut 0 all 0 tot 86 tsize 86 
+([0, 0], [0.0, 0.0])
+sample d1791s.bam prot trna_Met spos 0 tpos 86 sreads 162 total ( 211 210 0.00119048 150.248 147 )
+poly 0 mut 0 polymut 0 all 0 tot 86 tsize 86 
+([0, 0], [0.0, 0.0])
+sample r1791s.bam prot trna_Met spos 0 tpos 18 sreads 2 total ( 3 3 0.00387597 131.333 138 )
+poly 0 mut 0 polymut 0 all 0 tot 18 tsize 86 
+([0, 0], [0.0, 0.0])
+sample d1820s.bam prot trna_Met spos 0 tpos 86 sreads 419 total ( 535 534 0.000543465 150.202 150 )
+poly 0 mut 0 polymut 0 all 0 tot 86 tsize 86 
+([0, 0], [0.0, 0.0])
+prot trna_Met allspos 0 ratio 0
+sample d1747s.bam prot trna_Arg spos 0 tpos 73 sreads 72 total ( 93 93 0 149.968 150 )
+poly 0 mut 0 polymut 0 all 0 tot 73 tsize 72 
+([0, 0], [0.0, 0.0])
+sample r1747s.bam prot trna_Arg spos 0 tpos 73 sreads 142 total ( 154 154 0.000881964 129.636 140 )
+poly 0 mut 0 polymut 0 all 0 tot 73 tsize 72 
+([0, 0], [0.0, 0.0])
+sample d1791s.bam prot trna_Arg spos 0 tpos 73 sreads 124 total ( 168 168 0.00101655 149.946 150 )
+poly 0 mut 0 polymut 0 all 0 tot 73 tsize 72 
+([0, 0], [0.0, 0.0])
+sample r1791s.bam prot trna_Arg spos 0 tpos 0 sreads 0 total ( 0 0 0 0 150 )
+poly 0 mut 0 polymut 0 all 0 tot 0 tsize 72 
+sample d1820s.bam prot trna_Arg spos 0 tpos 73 sreads 358 total ( 449 448 9.17319e-05 150.058 149 )
+poly 0 mut 0 polymut 0 all 0 tot 73 tsize 72 
+([0, 0], [0.0, 0.0])
+prot trna_Arg allspos 0 ratio 0
+sample d1747s.bam prot p14 spos 10 tpos 906 sreads 341 total ( 627 627 0.000457139 150 150 )
+poly 2 mut 0 polymut 0 all 10 tot 906 tsize 906 
+([0, 2], [0.0, 2.0])
+sample r1747s.bam prot p14 spos 1 tpos 906 sreads 1201 total ( 2136 2136 0.000142941 131.798 140 )
+poly 0 mut 0 polymut 0 all 1 tot 906 tsize 906 
+([0, 0], [0.0, 0.0])
+sample d1791s.bam prot p14 spos 17 tpos 906 sreads 562 total ( 1046 1046 0.00426293 149.891 150 )
+poly 8 mut 4 polymut 4 all 17 tot 906 tsize 906 
+([4, 4], [4.0, 4.0])
+sample r1791s.bam prot p14 spos 0 tpos 214 sreads 2 total ( 3 3 0 140 140 )
+poly 0 mut 0 polymut 0 all 0 tot 214 tsize 906 
+([0, 0], [0.0, 0.0])
+sample d1820s.bam prot p14 spos 35 tpos 906 sreads 1309 total ( 2374 2371 0.00100081 150.134 150 )
+poly 8 mut 0 polymut 0 all 35 tot 906 tsize 906 
+([0, 8], [0.0, 8.0])
+prot p14 allspos 10 ratio 0.0110375
+sample d1747s.bam prot p5 spos 12 tpos 1527 sreads 471 total ( 874 874 0.000528252 149.997 150 )
+poly 4 mut 0 polymut 0 all 12 tot 1527 tsize 1527 
+([0, 4], [0.0, 4.0])
+sample r1747s.bam prot p5 spos 7 tpos 1527 sreads 7767 total ( 15208 15208 0.000338937 130.709 103 )
+poly 1 mut 0 polymut 0 all 7 tot 1527 tsize 1527 
+([0, 1], [0.0, 1.0])
+sample d1791s.bam prot p5 spos 27 tpos 1527 sreads 828 total ( 1631 1629 0.0044214 150.166 150 )
+poly 15 mut 6 polymut 6 all 27 tot 1527 tsize 1527 
+([6, 9], [6.0, 9.0])
+sample r1791s.bam prot p5 spos 9 tpos 1527 sreads 113 total ( 242 242 0.00494386 131.05 140 )
+poly 9 mut 4 polymut 4 all 9 tot 1527 tsize 1527 
+([4, 5], [4.0, 5.0])
+sample d1820s.bam prot p5 spos 66 tpos 1527 sreads 1981 total ( 3743 3743 0.000935488 149.997 150 )
+poly 7 mut 0 polymut 0 all 66 tot 1527 tsize 1527 
+([0, 7], [0.0, 7.0])
+prot p5 allspos 20 ratio 0.0130976
+sample d1747s.bam prot p35 spos 1 tpos 363 sreads 138 total ( 223 223 0.00126795 150 150 )
+poly 0 mut 0 polymut 0 all 1 tot 363 tsize 363 
+([0, 0], [0.0, 0.0])
+sample r1747s.bam prot p35 spos 2 tpos 363 sreads 2805 total ( 4461 4460 0.000106523 132.893 140 )
+poly 0 mut 0 polymut 0 all 2 tot 363 tsize 363 
+([0, 0], [0.0, 0.0])
+sample d1791s.bam prot p35 spos 9 tpos 363 sreads 280 total ( 502 500 0.00761253 150.6 150 )
+poly 5 mut 1 polymut 1 all 9 tot 363 tsize 363 
+([1, 4], [1.0, 4.0])
+sample r1791s.bam prot p35 spos 2 tpos 363 sreads 34 total ( 63 63 0.00762615 133.937 140 )
+poly 2 mut 0 polymut 0 all 2 tot 363 tsize 363 
+([0, 2], [0.0, 2.0])
+sample d1820s.bam prot p35 spos 12 tpos 363 sreads 721 total ( 1163 1160 0.00140204 150.388 150 )
+poly 0 mut 0 polymut 0 all 12 tot 363 tsize 363 
+([0, 0], [0.0, 0.0])
+prot p35 allspos 5 ratio 0.0137741
+sample d1747s.bam prot trna_Arg spos 0 tpos 72 sreads 93 total ( 136 136 0.000318387 150 150 )
+poly 0 mut 0 polymut 0 all 0 tot 72 tsize 72 
+([0, 0], [0.0, 0.0])
+sample r1747s.bam prot trna_Arg spos 0 tpos 72 sreads 67 total ( 84 84 0.000165344 132.536 139 )
+poly 0 mut 0 polymut 0 all 0 tot 72 tsize 72 
+([0, 0], [0.0, 0.0])
+sample d1791s.bam prot trna_Arg spos 0 tpos 72 sreads 146 total ( 188 186 0.000103391 151.532 150 )
+poly 0 mut 0 polymut 0 all 0 tot 72 tsize 72 
+([0, 0], [0.0, 0.0])
+sample r1791s.bam prot trna_Arg spos 0 tpos 72 sreads 3 total ( 3 3 0 139.667 139 )
+poly 0 mut 0 polymut 0 all 0 tot 72 tsize 72 
+([0, 0], [0.0, 0.0])
+sample d1820s.bam prot trna_Arg spos 0 tpos 72 sreads 383 total ( 459 458 0.000228082 150.328 150 )
+poly 0 mut 0 polymut 0 all 0 tot 72 tsize 72 
+([0, 0], [0.0, 0.0])
+prot trna_Arg allspos 0 ratio 0
+sample d1747s.bam prot trna_Ser spos 0 tpos 87 sreads 109 total ( 142 141 8.44309e-05 151.064 150 )
+poly 0 mut 0 polymut 0 all 0 tot 87 tsize 87 
+([0, 0], [0.0, 0.0])
+sample r1747s.bam prot trna_Ser spos 0 tpos 87 sreads 86 total ( 112 112 0.000205255 131.223 142 )
+poly 0 mut 0 polymut 0 all 0 tot 87 tsize 87 
+([0, 0], [0.0, 0.0])
+sample d1791s.bam prot trna_Ser spos 0 tpos 87 sreads 136 total ( 204 202 0.0020806 151.391 149 )
+poly 0 mut 0 polymut 0 all 0 tot 87 tsize 87 
+([0, 0], [0.0, 0.0])
+sample r1791s.bam prot trna_Ser spos 0 tpos 0 sreads 0 total ( 0 0 0 0 149 )
+poly 0 mut 0 polymut 0 all 0 tot 0 tsize 87 
+sample d1820s.bam prot trna_Ser spos 0 tpos 87 sreads 357 total ( 482 479 0.0014732 150.904 150 )
+poly 0 mut 0 polymut 0 all 0 tot 87 tsize 87 
+([0, 0], [0.0, 0.0])
+prot trna_Ser allspos 0 ratio 0
+sample d1747s.bam prot p12 spos 8 tpos 1062 sreads 373 total ( 692 690 0.000673614 150.428 150 )
+poly 1 mut 0 polymut 0 all 8 tot 1062 tsize 1062 
+([0, 1], [0.0, 1.0])
+sample r1747s.bam prot p12 spos 97 tpos 1062 sreads 74902 total ( 151220 151218 0.00109335 130.507 140 )
+poly 5 mut 0 polymut 0 all 97 tot 1062 tsize 1062 
+([0, 5], [0.0, 5.0])
+sample d1791s.bam prot p12 spos 9 tpos 1062 sreads 587 total ( 1129 1128 0.00492574 150.087 150 )
+poly 7 mut 5 polymut 5 all 9 tot 1062 tsize 1062 
+([5, 2], [5.0, 2.0])
+sample r1791s.bam prot p12 spos 6 tpos 1062 sreads 1402 total ( 3012 3012 0.00997055 129.864 97 )
+poly 0 mut 5 polymut 0 all 6 tot 1062 tsize 1062 
+([0, 0], [0.0, 0.0])
+sample d1820s.bam prot p12 spos 35 tpos 1062 sreads 1484 total ( 2720 2719 0.00176672 150.037 150 )
+poly 7 mut 2 polymut 2 all 35 tot 1062 tsize 1062 
+([2, 5], [2.0, 5.0])
+prot p12 allspos 10 ratio 0.0094162
+sample d1747s.bam prot p15 spos 14 tpos 891 sreads 329 total ( 638 636 0.0037708 150.443 150 )
+poly 5 mut 1 polymut 1 all 14 tot 891 tsize 891 
+([1, 4], [1.0, 4.0])
+sample r1747s.bam prot p15 spos 26 tpos 891 sreads 313 total ( 626 626 0.00493113 132.117 105 )
+poly 10 mut 1 polymut 1 all 26 tot 891 tsize 891 
+([1, 9], [1.0, 9.0])
+sample d1791s.bam prot p15 spos 22 tpos 891 sreads 312 total ( 957 957 0.0156842 149.906 150 )
+poly 15 mut 9 polymut 8 all 22 tot 891 tsize 891 
+([8, 7], [8.0, 7.0])
+sample r1791s.bam prot p15 spos 3 tpos 385 sreads 4 total ( 11 11 0.0175309 135 141 )
+poly 3 mut 3 polymut 3 all 3 tot 385 tsize 891 
+([3, 0], [6.942857142857143, 0.0])
+sample d1820s.bam prot p15 spos 41 tpos 891 sreads 1300 total ( 2405 2405 0.0024673 149.958 150 )
+poly 8 mut 0 polymut 0 all 41 tot 891 tsize 891 
+([0, 8], [0.0, 8.0])
+prot p15 allspos 23 ratio 0.0258137
+sample d1747s.bam prot trna_Asp spos 0 tpos 74 sreads 99 total ( 141 141 9.58405e-05 150 150 )
+poly 0 mut 0 polymut 0 all 0 tot 74 tsize 74 
+([0, 0], [0.0, 0.0])
+sample r1747s.bam prot trna_Asp spos 0 tpos 74 sreads 97 total ( 122 122 0.000400386 131.82 126 )
+poly 0 mut 0 polymut 0 all 0 tot 74 tsize 74 
+([0, 0], [0.0, 0.0])
+sample d1791s.bam prot trna_Asp spos 0 tpos 74 sreads 175 total ( 229 229 0 149.843 150 )
+poly 0 mut 0 polymut 0 all 0 tot 74 tsize 74 
+([0, 0], [0.0, 0.0])
+sample r1791s.bam prot trna_Asp spos 0 tpos 48 sreads 1 total ( 2 2 0 129.5 119 )
+poly 0 mut 0 polymut 0 all 0 tot 48 tsize 74 
+([0, 0], [0.0, 0.0])
+sample d1820s.bam prot trna_Asp spos 0 tpos 74 sreads 402 total ( 491 491 0.000366373 149.939 150 )
+poly 0 mut 0 polymut 0 all 0 tot 74 tsize 74 
+([0, 0], [0.0, 0.0])
+prot trna_Asp allspos 0 ratio 0
+sample d1747s.bam prot p16 spos 12 tpos 885 sreads 364 total ( 677 676 0.00162176 150.204 150 )
+poly 4 mut 0 polymut 0 all 12 tot 885 tsize 885 
+([0, 4], [0.0, 4.0])
+sample r1747s.bam prot p16 spos 4 tpos 885 sreads 828 total ( 1574 1574 0.00187451 133.618 140 )
+poly 2 mut 2 polymut 1 all 4 tot 885 tsize 885 
+([1, 1], [1.0, 1.0])
+sample d1791s.bam prot p16 spos 16 tpos 885 sreads 414 total ( 1033 1033 0.0100083 150 150 )
+poly 9 mut 6 polymut 5 all 16 tot 885 tsize 885 
+([5, 4], [5.0, 4.0])
+sample r1791s.bam prot p16 spos 1 tpos 381 sreads 3 total ( 7 7 0.00621465 137.429 140 )
+poly 1 mut 1 polymut 1 all 1 tot 381 tsize 885 
+([1, 0], [2.322834645669291, 0.0])
+sample d1820s.bam prot p16 spos 38 tpos 885 sreads 1339 total ( 2410 2407 0.00200699 150.159 150 )
+poly 8 mut 0 polymut 0 all 38 tot 885 tsize 885 
+([0, 8], [0.0, 8.0])
+prot p16 allspos 14 ratio 0.0158192
+sample d1747s.bam prot p17 spos 13 tpos 861 sreads 343 total ( 641 639 0.00360164 150.468 150 )
+poly 7 mut 3 polymut 2 all 13 tot 861 tsize 861 
+([2, 5], [2.0, 5.0])
+sample r1747s.bam prot p17 spos 7 tpos 861 sreads 46 total ( 92 92 0.00518418 132.641 140 )
+poly 6 mut 3 polymut 2 all 7 tot 861 tsize 861 
+([2, 4], [2.0, 4.0])
+sample d1791s.bam prot p17 spos 11 tpos 861 sreads 90 total ( 256 256 0.0157954 149.309 150 )
+poly 11 mut 2 polymut 2 all 11 tot 861 tsize 861 
+([2, 9], [2.0, 9.0])
+sample r1791s.bam prot p17 spos 0 tpos 0 sreads 0 total ( 0 0 0 0 150 )
+poly 0 mut 0 polymut 0 all 0 tot 0 tsize 861 
+sample d1820s.bam prot p17 spos 43 tpos 861 sreads 1207 total ( 2234 2231 0.00271669 150.161 150 )
+poly 9 mut 0 polymut 0 all 43 tot 861 tsize 861 
+([0, 9], [0.0, 9.0])
+prot p17 allspos 18 ratio 0.0209059
+sample d1747s.bam prot p7 spos 17 tpos 1383 sreads 467 total ( 879 879 0.00214994 149.998 150 )
+poly 5 mut 1 polymut 0 all 17 tot 1383 tsize 1383 
+([0, 5], [0.0, 5.0])
+sample r1747s.bam prot p7 spos 12 tpos 1383 sreads 112 total ( 216 216 0.00478998 131.449 131 )
+poly 12 mut 1 polymut 1 all 12 tot 1383 tsize 1383 
+([1, 11], [1.0, 11.0])
+sample d1791s.bam prot p7 spos 24 tpos 1383 sreads 378 total ( 1120 1120 0.0134702 149.887 150 )
+poly 18 mut 10 polymut 9 all 24 tot 1383 tsize 1383 
+([9, 9], [9.0, 9.0])
+sample r1791s.bam prot p7 spos 1 tpos 344 sreads 4 total ( 12 12 0.0127419 128.75 140 )
+poly 1 mut 1 polymut 1 all 1 tot 344 tsize 1383 
+([1, 0], [4.020348837209302, 0.0])
+sample d1820s.bam prot p7 spos 53 tpos 1383 sreads 1151 total ( 2075 2075 0.00421523 149.749 150 )
+poly 23 mut 1 polymut 1 all 53 tot 1383 tsize 1383 
+([1, 22], [1.0, 22.0])
+prot p7 allspos 38 ratio 0.0274765
+sample d1747s.bam prot trna_Asn spos 0 tpos 73 sreads 89 total ( 115 114 0.000393236 151.316 150 )
+poly 0 mut 0 polymut 0 all 0 tot 73 tsize 73 
+([0, 0], [0.0, 0.0])
+sample r1747s.bam prot trna_Asn spos 0 tpos 73 sreads 9 total ( 10 10 0 133.1 140 )
+poly 0 mut 0 polymut 0 all 0 tot 73 tsize 73 
+([0, 0], [0.0, 0.0])
+sample d1791s.bam prot trna_Asn spos 0 tpos 73 sreads 123 total ( 170 170 0.00296867 148.306 144 )
+poly 0 mut 0 polymut 0 all 0 tot 73 tsize 73 
+([0, 0], [0.0, 0.0])
+sample r1791s.bam prot trna_Asn spos 0 tpos 69 sreads 2 total ( 3 3 0 117.333 101 )
+poly 0 mut 0 polymut 0 all 0 tot 69 tsize 73 
+([0, 0], [0.0, 0.0])
+sample d1820s.bam prot trna_Asn spos 0 tpos 73 sreads 369 total ( 464 461 0.00111445 150.957 150 )
+poly 0 mut 0 polymut 0 all 0 tot 73 tsize 73 
+([0, 0], [0.0, 0.0])
+prot trna_Asn allspos 0 ratio 0
+sample d1747s.bam prot p40 spos 4 tpos 300 sreads 154 total ( 250 248 0.000271062 151.206 150 )
+poly 0 mut 0 polymut 0 all 4 tot 300 tsize 300 
+([0, 0], [0.0, 0.0])
+sample r1747s.bam prot p40 spos 0 tpos 300 sreads 327 total ( 560 560 3.88199e-05 132.261 115 )
+poly 0 mut 0 polymut 0 all 0 tot 300 tsize 300 
+([0, 0], [0.0, 0.0])
+sample d1791s.bam prot p40 spos 5 tpos 300 sreads 134 total ( 421 419 0.0117803 150.714 150 )
+poly 5 mut 3 polymut 3 all 5 tot 300 tsize 300 
+([3, 2], [3.0, 2.0])
+sample r1791s.bam prot p40 spos 0 tpos 0 sreads 0 total ( 3 3 0.0161584 121.333 106 )
+poly 0 mut 0 polymut 0 all 0 tot 0 tsize 300 
+sample d1820s.bam prot p40 spos 12 tpos 300 sreads 645 total ( 1029 1025 0.000948668 150.576 150 )
+poly 0 mut 0 polymut 0 all 12 tot 300 tsize 300 
+([0, 0], [0.0, 0.0])
+prot p40 allspos 5 ratio 0.0166667
+sample d1747s.bam prot p18 spos 13 tpos 828 sreads 286 total ( 520 518 0.000768715 150.579 150 )
+poly 4 mut 0 polymut 0 all 13 tot 828 tsize 828 
+([0, 4], [0.0, 4.0])
+sample r1747s.bam prot p18 spos 1 tpos 828 sreads 696 total ( 1197 1197 0.000304559 130.833 121 )
+poly 1 mut 0 polymut 0 all 1 tot 828 tsize 828 
+([0, 1], [0.0, 1.0])
+sample d1791s.bam prot p18 spos 18 tpos 828 sreads 475 total ( 887 887 0.00398591 150 150 )
+poly 8 mut 3 polymut 3 all 18 tot 828 tsize 828 
+([3, 5], [3.0, 5.0])
+sample r1791s.bam prot p18 spos 3 tpos 514 sreads 4 total ( 8 8 0.0040144 131.5 140 )
+poly 3 mut 1 polymut 1 all 3 tot 514 tsize 828 
+([1, 2], [1.6108949416342413, 3.2217898832684826])
+sample d1820s.bam prot p18 spos 37 tpos 828 sreads 1202 total ( 2170 2167 0.000724296 150.207 150 )
+poly 6 mut 0 polymut 0 all 37 tot 828 tsize 828 
+([0, 6], [0.0, 6.0])
+prot p18 allspos 14 ratio 0.0169082
+sample d1747s.bam prot p19 spos 7 tpos 699 sreads 236 total ( 421 421 0.00108547 149.99 150 )
+poly 1 mut 1 polymut 1 all 7 tot 699 tsize 699 
+([1, 0], [1.0, 0.0])
+sample r1747s.bam prot p19 spos 2 tpos 699 sreads 520 total ( 907 907 0.00111857 132.546 139 )
+poly 1 mut 1 polymut 1 all 2 tot 699 tsize 699 
+([1, 0], [1.0, 0.0])
+sample d1791s.bam prot p19 spos 10 tpos 699 sreads 390 total ( 736 735 0.00409134 150.204 150 )
+poly 6 mut 3 polymut 3 all 10 tot 699 tsize 699 
+([3, 3], [3.0, 3.0])
+sample r1791s.bam prot p19 spos 0 tpos 28 sreads 1 total ( 1 1 0 140 140 )
+poly 0 mut 0 polymut 0 all 0 tot 28 tsize 699 
+([0, 0], [0.0, 0.0])
+sample d1820s.bam prot p19 spos 30 tpos 699 sreads 1072 total ( 1864 1864 0.00127175 149.998 150 )
+poly 5 mut 0 polymut 0 all 30 tot 699 tsize 699 
+([0, 5], [0.0, 5.0])
+prot p19 allspos 9 ratio 0.0128755
+sample d1747s.bam prot p27 spos 5 tpos 438 sreads 161 total ( 264 264 0.000718022 150 150 )
+poly 2 mut 0 polymut 0 all 5 tot 438 tsize 438 
+([0, 2], [0.0, 2.0])
+sample r1747s.bam prot p27 spos 4 tpos 438 sreads 317 total ( 529 529 0.00113909 131.584 140 )
+poly 1 mut 0 polymut 0 all 4 tot 438 tsize 438 
+([0, 1], [0.0, 1.0])
+sample d1791s.bam prot p27 spos 7 tpos 438 sreads 262 total ( 517 516 0.00607081 150.291 150 )
+poly 6 mut 3 polymut 3 all 7 tot 438 tsize 438 
+([3, 3], [3.0, 3.0])
+sample r1791s.bam prot p27 spos 1 tpos 250 sreads 3 total ( 5 5 0.00462185 131.4 140 )
+poly 1 mut 1 polymut 1 all 1 tot 250 tsize 438 
+([1, 0], [1.752, 0.0])
+sample d1820s.bam prot p27 spos 20 tpos 438 sreads 685 total ( 1236 1236 0.00338148 149.992 150 )
+poly 4 mut 1 polymut 1 all 20 tot 438 tsize 438 
+([1, 3], [1.0, 3.0])
+prot p27 allspos 8 ratio 0.0182648
+sample d1747s.bam prot p33 spos 2 tpos 369 sreads 202 total ( 347 347 0.00139469 150 150 )
+poly 1 mut 0 polymut 0 all 2 tot 369 tsize 369 
+([0, 1], [0.0, 1.0])
+sample r1747s.bam prot p33 spos 2 tpos 369 sreads 258 total ( 434 434 0.00151262 130.203 140 )
+poly 1 mut 1 polymut 1 all 2 tot 369 tsize 369 
+([1, 0], [1.0, 0.0])
+sample d1791s.bam prot p33 spos 6 tpos 369 sreads 291 total ( 497 496 0.00241492 150.302 150 )
+poly 0 mut 1 polymut 0 all 6 tot 369 tsize 369 
+([0, 0], [0.0, 0.0])
+sample r1791s.bam prot p33 spos 0 tpos 328 sreads 3 total ( 6 6 0.0125257 134 117 )
+poly 0 mut 0 polymut 0 all 0 tot 328 tsize 369 
+([0, 0], [0.0, 0.0])
+sample d1820s.bam prot p33 spos 16 tpos 369 sreads 720 total ( 1122 1119 0.00108124 150.401 150 )
+poly 2 mut 0 polymut 0 all 16 tot 369 tsize 369 
+([0, 2], [0.0, 2.0])
+prot p33 allspos 2 ratio 0.00542005
+sample d1747s.bam prot p23 spos 5 tpos 546 sreads 248 total ( 418 418 0.000464884 150 150 )
+poly 1 mut 0 polymut 0 all 5 tot 546 tsize 546 
+([0, 1], [0.0, 1.0])
+sample r1747s.bam prot p23 spos 9 tpos 546 sreads 317 total ( 553 553 0.000307097 132.734 123 )
+poly 1 mut 0 polymut 0 all 9 tot 546 tsize 546 
+([0, 1], [0.0, 1.0])
+sample d1791s.bam prot p23 spos 10 tpos 546 sreads 344 total ( 628 627 0.0057615 150.239 150 )
+poly 5 mut 3 polymut 3 all 10 tot 546 tsize 546 
+([3, 2], [3.0, 2.0])
+sample r1791s.bam prot p23 spos 1 tpos 225 sreads 3 total ( 6 6 0.00761479 125.5 123 )
+poly 1 mut 1 polymut 1 all 1 tot 225 tsize 546 
+([1, 0], [2.4266666666666667, 0.0])
+sample d1820s.bam prot p23 spos 25 tpos 546 sreads 971 total ( 1607 1606 0.00107376 150.09 150 )
+poly 4 mut 0 polymut 0 all 25 tot 546 tsize 546 
+([0, 4], [0.0, 4.0])
+prot p23 allspos 7 ratio 0.0128205
+sample d1747s.bam prot p29 spos 3 tpos 405 sreads 221 total ( 356 355 0.00130926 150.414 150 )
+poly 1 mut 0 polymut 0 all 3 tot 405 tsize 405 
+([0, 1], [0.0, 1.0])
+sample r1747s.bam prot p29 spos 4 tpos 405 sreads 211 total ( 373 373 0.000399698 134.233 140 )
+poly 2 mut 0 polymut 0 all 4 tot 405 tsize 405 
+([0, 2], [0.0, 2.0])
+sample d1791s.bam prot p29 spos 8 tpos 405 sreads 297 total ( 496 493 0.00351486 150.911 150 )
+poly 2 mut 2 polymut 2 all 8 tot 405 tsize 405 
+([2, 0], [2.0, 0.0])
+sample r1791s.bam prot p29 spos 0 tpos 0 sreads 0 total ( 0 0 0 0 150 )
+poly 0 mut 0 polymut 0 all 0 tot 0 tsize 405 
+sample d1820s.bam prot p29 spos 17 tpos 405 sreads 836 total ( 1348 1345 0.000611736 150.335 150 )
+poly 4 mut 0 polymut 0 all 17 tot 405 tsize 405 
+([0, 4], [0.0, 4.0])
+prot p29 allspos 5 ratio 0.0123457
+sample d1747s.bam prot p31 spos 3 tpos 393 sreads 180 total ( 288 288 0.000349282 150 150 )
+poly 1 mut 0 polymut 0 all 3 tot 393 tsize 393 
+([0, 1], [0.0, 1.0])
+sample r1747s.bam prot p31 spos 6 tpos 393 sreads 170 total ( 276 276 0.000435753 134.304 140 )
+poly 2 mut 0 polymut 0 all 6 tot 393 tsize 393 
+([0, 2], [0.0, 2.0])
+sample d1791s.bam prot p31 spos 7 tpos 393 sreads 272 total ( 478 478 0.0055573 149.897 150 )
+poly 5 mut 3 polymut 3 all 7 tot 393 tsize 393 
+([3, 2], [3.0, 2.0])
+sample r1791s.bam prot p31 spos 0 tpos 29 sreads 2 total ( 4 4 0.0107143 135.75 140 )
+poly 0 mut 0 polymut 0 all 0 tot 29 tsize 393 
+([0, 0], [0.0, 0.0])
+sample d1820s.bam prot p31 spos 19 tpos 393 sreads 711 total ( 1148 1147 0.000415684 150.131 150 )
+poly 2 mut 0 polymut 0 all 19 tot 393 tsize 393 
+([0, 2], [0.0, 2.0])
+prot p31 allspos 8 ratio 0.0203562
+sample d1747s.bam prot p10 spos 9 tpos 1128 sreads 376 total ( 726 725 0.00170156 150.206 150 )
+poly 2 mut 0 polymut 0 all 9 tot 1128 tsize 1128 
+([0, 2], [0.0, 2.0])
+sample r1747s.bam prot p10 spos 21 tpos 1128 sreads 321 total ( 613 613 0.00237217 129.02 140 )
+poly 7 mut 2 polymut 2 all 21 tot 1128 tsize 1128 
+([2, 5], [2.0, 5.0])
+sample d1791s.bam prot p10 spos 21 tpos 1128 sreads 544 total ( 1146 1146 0.00625946 149.976 150 )
+poly 12 mut 4 polymut 4 all 21 tot 1128 tsize 1128 
+([4, 8], [4.0, 8.0])
+sample r1791s.bam prot p10 spos 0 tpos 38 sreads 3 total ( 9 9 0.00749389 139.333 140 )
+poly 0 mut 0 polymut 0 all 0 tot 38 tsize 1128 
+([0, 0], [0.0, 0.0])
+sample d1820s.bam prot p10 spos 46 tpos 1128 sreads 1492 total ( 2798 2796 0.0013361 150.095 150 )
+poly 12 mut 0 polymut 0 all 46 tot 1128 tsize 1128 
+([0, 12], [0.0, 12.0])
+prot p10 allspos 21 ratio 0.018617
+sample d1747s.bam prot p28 spos 7 tpos 408 sreads 207 total ( 358 358 0.00508678 149.986 150 )
+poly 4 mut 3 polymut 2 all 7 tot 408 tsize 408 
+([2, 2], [2.0, 2.0])
+sample r1747s.bam prot p28 spos 4 tpos 408 sreads 78 total ( 133 133 0.00400252 129.857 139 )
+poly 3 mut 2 polymut 1 all 4 tot 408 tsize 408 
+([1, 2], [1.0, 2.0])
+sample d1791s.bam prot p28 spos 7 tpos 408 sreads 174 total ( 522 522 0.0180123 149.983 150 )
+poly 6 mut 5 polymut 5 all 7 tot 408 tsize 408 
+([5, 1], [5.0, 1.0])
+sample r1791s.bam prot p28 spos 0 tpos 13 sreads 1 total ( 3 3 0.0120083 131.667 140 )
+poly 0 mut 0 polymut 0 all 0 tot 13 tsize 408 
+([0, 0], [0.0, 0.0])
+sample d1820s.bam prot p28 spos 16 tpos 408 sreads 799 total ( 1321 1320 0.00291496 150.104 149 )
+poly 6 mut 0 polymut 0 all 16 tot 408 tsize 408 
+([0, 6], [0.0, 6.0])
+prot p28 allspos 10 ratio 0.0245098
+sample d1747s.bam prot p20 spos 9 tpos 690 sreads 289 total ( 520 520 0.000832543 149.983 150 )
+poly 2 mut 1 polymut 1 all 9 tot 690 tsize 690 
+([1, 1], [1.0, 1.0])
+sample r1747s.bam prot p20 spos 5 tpos 690 sreads 97 total ( 182 182 0.00122898 134.714 140 )
+poly 5 mut 0 polymut 0 all 5 tot 690 tsize 690 
+([0, 5], [0.0, 5.0])
+sample d1791s.bam prot p20 spos 12 tpos 690 sreads 316 total ( 755 755 0.00930768 150 150 )
+poly 8 mut 6 polymut 6 all 12 tot 690 tsize 690 
+([6, 2], [6.0, 2.0])
+sample r1791s.bam prot p20 spos 0 tpos 0 sreads 0 total ( 0 0 0 0 150 )
+poly 0 mut 0 polymut 0 all 0 tot 0 tsize 690 
+sample d1820s.bam prot p20 spos 36 tpos 690 sreads 1144 total ( 2018 2014 0.00144818 150.287 150 )
+poly 8 mut 0 polymut 0 all 36 tot 690 tsize 690 
+([0, 8], [0.0, 8.0])
+prot p20 allspos 15 ratio 0.0217391
+sample d1747s.bam prot 16s_rna spos 14 tpos 1499 sreads 423 total ( 812 812 0.00127802 149.977 150 )
+poly 4 mut 0 polymut 0 all 14 tot 1499 tsize 1499 
+([0, 4], [0.0, 4.0])
+sample r1747s.bam prot 16s_rna spos 6 tpos 1456 sreads 856 total ( 8684 8684 0.0611745 127.661 140 )
+poly 2 mut 2 polymut 1 all 6 tot 1456 tsize 1499 
+([1, 1], [1.029532967032967, 1.029532967032967])
+sample d1791s.bam prot 16s_rna spos 29 tpos 1499 sreads 788 total ( 1549 1546 0.00346627 150.274 150 )
+poly 7 mut 3 polymut 2 all 29 tot 1499 tsize 1499 
+([2, 5], [2.0, 5.0])
+sample r1791s.bam prot 16s_rna spos 6 tpos 930 sreads 191 total ( 15857 15857 0.072711 125.56 86 )
+poly 5 mut 6 polymut 5 all 6 tot 930 tsize 1499 
+([5, 0], [8.059139784946236, 0.0])
+sample d1820s.bam prot 16s_rna spos 63 tpos 1499 sreads 1876 total ( 3551 3548 0.000878142 150.117 150 )
+poly 5 mut 0 polymut 0 all 63 tot 1499 tsize 1499 
+([0, 5], [0.0, 5.0])
+prot 16s_rna allspos 18 ratio 0.012008
+sample d1747s.bam prot p4 spos 24 tpos 1789 sreads 559 total ( 1060 1060 0.000942309 149.911 129 )
+poly 5 mut 1 polymut 1 all 24 tot 1789 tsize 1790 
+([1, 4], [1.0005589714924539, 4.0022358859698155])
+sample r1747s.bam prot p4 spos 8 tpos 1790 sreads 7833 total ( 15342 15342 0.000622195 131.695 71 )
+poly 2 mut 2 polymut 2 all 8 tot 1790 tsize 1790 
+([2, 0], [2.0, 0.0])
+sample d1791s.bam prot p4 spos 30 tpos 1790 sreads 777 total ( 1684 1684 0.00706649 149.807 129 )
+poly 17 mut 12 polymut 12 all 30 tot 1790 tsize 1790 
+([12, 5], [12.0, 5.0])
+sample r1791s.bam prot p4 spos 14 tpos 1776 sreads 69 total ( 142 142 0.00610632 130.845 127 )
+poly 11 mut 10 polymut 7 all 14 tot 1776 tsize 1790 
+([7, 4], [7.05518018018018, 4.031531531531532])
+sample d1820s.bam prot p4 spos 83 tpos 1790 sreads 2198 total ( 4178 4174 0.00113544 150.004 128 )
+poly 12 mut 1 polymut 1 all 83 tot 1790 tsize 1790 
+([1, 11], [1.0, 11.0])
+prot p4 allspos 23 ratio 0.0128492
+(559, 6.326149473155099, 23.643180835073778, 4.8624254066333785)
+(4131, 8.326274787396764, 64.27285585688566, 8.017035353351366)
+(789, 6.670766320845874, 28.089143810376278, 5.299919226778487)
+(81, 4.394449154672439, 9.0, 3.0000000000000004)
+(2279, 7.731492029245684, 47.738873049120045, 6.909332315724874)
