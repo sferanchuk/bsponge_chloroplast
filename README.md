@@ -25,10 +25,10 @@ For the pie chart with counts of polymorphic sites for each gene (fig. 3 in the 
 
 mafft, fastme and readseq software is required to re-calculate phylogenetic trees
 
-In addition, the scripts which could be used to assemble genome fragment from raw sequencing reads and a sequence of reference genome are provided.
-But the raw sequencing archives are not deposited yet, this data is used in several other projects and the submission is postponed a while. 
-
 The software was used on Ubuntu Linux x86_64 server.
+
+In addition, the scripts which could be used to assemble genome fragment from raw sequencing reads and a sequence of reference genome are provided. BioProject ID for the libraries of raw sequencing reads is PRJNA480194.
+
 
 
 
